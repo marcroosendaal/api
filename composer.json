@@ -1,0 +1,17 @@
+{
+    "name": "marcroosendaal/api",
+    "description": "Laravel API layer.",
+    "type": "library",
+    "require": {
+        "laravel/laravel": "^5.5",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc Roosendaal",
+            "email": "wazoomie@outlook.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
