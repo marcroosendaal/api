@@ -13,5 +13,10 @@
             "email": "wazoomie@outlook.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "MarcRoosendaal\\API\\": "api"
+        }
+    },
     "minimum-stability": "dev"
 }
